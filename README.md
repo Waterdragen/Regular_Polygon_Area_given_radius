@@ -15,4 +15,7 @@ The area of the polygon: 1.299038
 Press y to show steps, n to exit.
 If you choose to show steps, the program will auto-exit after 5 minutes.
 
+#To show the General Formula:
+Enter the radius length: 0
+
 By Waterdragen @Orbit 2021
